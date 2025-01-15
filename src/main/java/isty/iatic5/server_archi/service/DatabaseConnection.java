@@ -8,9 +8,9 @@ import java.sql.SQLException;
 import java.util.Properties;
 
 public class DatabaseConnection {
-    private static String url = "jdbc:mysql://localhost:3306/groupes" ;
-    private static String user = "marcpetit" ;
-    private static String password = "mdp-marcpetit";
+    private static String url = "jdbc:mysql://localhost:3306/sdial" ;
+    private static String user = "root" ;
+    private static String password = "";
     
     //private static final String ENV_CONFIG_PATH = "DB_CONFIG_PATH"; // Nom de la variable d'environnement
 
